@@ -1,0 +1,14 @@
+{
+    "C_Cpp.dimInactiveRegions": true,
+    "files.associations": {
+        "jeu.h": "c",
+        "sdl.h": "c",
+        "sdl_image.h": "c",
+        "stdlib.h": "c",
+        "interfacejeu.h": "c",
+        "main.h": "c",
+        "network.h": "c",
+        "stdio.h": "c",
+        "cmath": "c"
+    }
+}

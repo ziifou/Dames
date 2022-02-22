@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "logsystem.h": "c",
+        "socket.h": "c",
+        "stdlib.h": "c",
+        "logedclients.h": "c"
+    }
+}
