@@ -1,5 +1,5 @@
 # Dames
-### I created this game when I was learning about networking and socket programming in C language, Linux envirenments
+### I created this game when I was learning about networking and socket programming in C language, Linux environments
 
 A client/server Checkers game where players can connect to the server,<br/> see the clients that are online choose a player or wait for a game to start <br/>
 
