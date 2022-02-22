@@ -1,5 +1,5 @@
 # Dames
-### I created this game while learning about networking and socket programming in C language
+### I created this game while learning about networking and socket programming in C language, Linux envirenments
 
 A client/server Checkers game where players can connect to the server,<br/> see the clients that are online choose a player or wait for a game to start <br/>
 
@@ -8,3 +8,9 @@ A client/server Checkers game where players can connect to the server,<br/> see 
 
 ## Player 2 <br/>
 ![image](https://user-images.githubusercontent.com/48772931/155101763-33c16c3d-1923-4848-a681-c37a7c9eea41.png)
+
+## requirements
+* SDL
+* SDL_Images
+## Bugs
+* crash when a client randomly click on the board
